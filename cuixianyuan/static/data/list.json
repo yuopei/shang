@@ -1,0 +1,1737 @@
+{
+      "code": 200,
+      "message": "成功",
+      "data": [{
+            "gc_id": 1123,
+            "gc_name": "核果类",
+            "type_id": 0,
+            "type_name": "类型2",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 1,
+            
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05022966305517979.png",
+            "children": [{
+                  "gc_id": 1133,
+                  "gc_name": "桃",
+                  "type_id": 4,
+                  "type_name": "类型2",
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "children": [{
+                        "gc_id": 1135,
+                        "gc_name": "毛桃",
+                        "type_id": 4,
+                        "type_name": "类型2",
+                        "gc_parent_id": 1133
+                  }, {
+                        "gc_id": 1134,
+                        "gc_name": "油桃",
+                        "type_id": 4,
+                        "type_name": "类型2"
+                  }, {
+                        "gc_id": 1267,
+                        "gc_name": "水蜜桃",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1133
+                  }]
+            }, {
+                  "gc_id": 1297,
+                  "gc_name": "枣",
+                  "type_id": 0,
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1161,
+                  "gc_name": "樱桃",
+                  "type_id": 4,
+                  "type_name": "类型2",
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "gc_sort": 2,
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1236,
+                        "gc_name": "国产车厘子",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1161,
+                        "commis_rate": 6,
+                        
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1162,
+                        "gc_name": "进口车厘子",
+                        "type_id": 0,
+                        "type_name": "类型2",
+                        "gc_parent_id": 1161,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1201,
+                  "gc_name": "李子",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "gc_sort": 3,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1217,
+                        "gc_name": "国产李子",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1201,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1289,
+                        "gc_name": "进口李子",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1201,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1330,
+                  "gc_name": "西梅",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "gc_sort": 4,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1271,
+                  "gc_name": "杏",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "gc_sort": 5,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1218,
+                  "gc_name": "枇杷",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "gc_sort": 6,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1124,
+                  "gc_name": "毛丹",
+                  "type_id": 4,
+                  "type_name": "类型2",
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "gc_sort": 7,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1129,
+                  "gc_name": "荔枝",
+                  "type_id": 4,
+                  "type_name": "类型2",
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "gc_sort": 8,
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1309,
+                        "gc_name": "国产荔枝",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1129,
+                        "commis_rate": 6,
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1310,
+                        "gc_name": "进口荔枝",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1129,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1274,
+                  "gc_name": "杨梅",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1123,
+                  "commis_rate": 6,
+                  "gc_sort": 9,
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1204,
+            "gc_name": "瓜类",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 1,
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05162762949337252.png",
+            "children": [{
+                  "gc_id": 1205,
+                  "gc_name": "西瓜",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1204,
+                  "commis_rate": 6,
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1317,
+                        "gc_name": "大型西瓜",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1205,
+                        "commis_rate": 6,
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1280,
+                        "gc_name": "小型西瓜",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1205,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1314,
+                  "gc_name": "蜜瓜",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1204,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1315,
+                  "gc_name": "香瓜",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1204,
+                  "commis_rate": 6,
+                  "gc_sort": 2,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1213,
+                  "gc_name": "甜瓜",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1204,
+                  "commis_rate": 6,
+                  "gc_sort": 3,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1316,
+                  "gc_name": "其它",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1204,
+                  "commis_rate": 6,
+                  "gc_sort": 4,
+                  
+                  
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1136,
+            "gc_name": "浆果类",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 2,
+            
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05022966402446014.png",
+            "children": [{
+                  "gc_id": 1262,
+                  "gc_name": "葡萄",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1263,
+                        "gc_name": "国产葡萄",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1262,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1364,
+                        "gc_name": "进口葡萄",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1262,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1155,
+                  "gc_name": "提子",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1157,
+                        "gc_name": "国产提子",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1155,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1156,
+                        "gc_name": "进口提子",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1155,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1137,
+                  "gc_name": "蓝莓",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 2,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1138,
+                        "gc_name": "蓝莓",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1137,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1339,
+                  "gc_name": "绿心奇异果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 3,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1338,
+                  "gc_name": "黄心奇异果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 4,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1145,
+                  "gc_name": "木瓜",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 5,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1146,
+                        "gc_name": "国产木瓜",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1145,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1375,
+                        "gc_name": "进口木瓜",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1145,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1220,
+                  "gc_name": "草莓",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 6,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1303,
+                  "gc_name": "姑娘果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 7,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1291,
+                  "gc_name": "无花果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 8,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1147,
+                  "gc_name": "杨桃",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 9,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1148,
+                        "gc_name": "杨桃",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1147,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1269,
+                  "gc_name": "石榴",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 11,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1320,
+                        "gc_name": "国产石榴",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1269,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1321,
+                        "gc_name": "进口石榴",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1269,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1142,
+                  "gc_name": "芭乐",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 12,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1143,
+                        "gc_name": "白心芭乐",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1142,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1319,
+                        "gc_name": "红心芭乐",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1142,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1353,
+                  "gc_name": "柿子",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 13,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1233,
+                  "gc_name": "树莓",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 14,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1359,
+                  "gc_name": "桑葚",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 14,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1340,
+                  "gc_name": "红心奇异果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1136,
+                  "commis_rate": 6,
+                  "gc_sort": 15,
+                  
+                  
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1088,
+            "gc_name": "热带类",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 3,
+            
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05022966220009381.png",
+            "children": [{
+                  "gc_id": 1089,
+                  "gc_name": "榴莲",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1090,
+                        "gc_name": "金枕",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1089,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1091,
+                        "gc_name": "干尧",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1089,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1092,
+                        "gc_name": "甲仑",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1089,
+                        "commis_rate": 6,
+                        "gc_sort": 2,
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1093,
+                        "gc_name": "猫山王",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1089,
+                        "commis_rate": 6,
+                        "gc_sort": 3,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1198,
+                  "gc_name": "香蕉",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 3,
+                  "gc_sort": 2,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1332,
+                        "gc_name": "国产香蕉",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1198,
+                        "commis_rate": 3,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1333,
+                        "gc_name": "进口香蕉",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1198,
+                        "commis_rate": 3,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1094,
+                  "gc_name": "山竹",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 3,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1095,
+                        "gc_name": "山竹",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1094,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1096,
+                  "gc_name": "芒果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 4,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1287,
+                        "gc_name": "国产芒果",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1096,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1323,
+                        "gc_name": "进口芒果",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1096,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1103,
+                  "gc_name": "凤梨",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 5,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1311,
+                        "gc_name": "国产凤梨",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1103,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1312,
+                        "gc_name": "进口凤梨",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1103,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1118,
+                  "gc_name": "火龙果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 6,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1120,
+                        "gc_name": "白心火龙果",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1118,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1119,
+                        "gc_name": "红心火龙果",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1118,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1226,
+                  "gc_name": "菠萝",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 7,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1227,
+                        "gc_name": "国产菠萝",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1226,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1250,
+                        "gc_name": "进口菠萝",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1226,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1101,
+                  "gc_name": "龙眼",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 8,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1102,
+                        "gc_name": "龙眼",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1101,
+                        "commis_rate": 6,
+                        "gc_sort": 255,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1106,
+                  "gc_name": "椰子",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 8,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1107,
+                        "gc_name": "椰青",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1106,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1244,
+                        "gc_name": "其它",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1106,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1114,
+                  "gc_name": "牛油果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 9,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1115,
+                        "gc_name": "牛油果",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1114,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1168,
+                  "gc_name": "百香果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 10,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1110,
+                  "gc_name": "火参果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 12,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1111,
+                        "gc_name": "火参果",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1110,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1116,
+                  "gc_name": "释迦果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 13,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1117,
+                        "gc_name": "释迦果",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1116,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1112,
+                  "gc_name": "蛇皮果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 14,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1113,
+                        "gc_name": "蛇皮果",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1112,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1121,
+                  "gc_name": "莲雾",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 15,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1122,
+                        "gc_name": "莲雾",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1121,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1108,
+                  "gc_name": "菠萝蜜",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 16,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1109,
+                        "gc_name": "菠萝蜜",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1108,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1255,
+                  "gc_name": "其他",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1088,
+                  "commis_rate": 6,
+                  "gc_sort": 255,
+                  
+                  
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1057,
+            "gc_name": "柑橘类",
+            "type_id": 0,
+            "type_name": "类型1",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 4,
+            
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05022966057207579.png",
+            "children": [{
+                  "gc_id": 1058,
+                  "gc_name": "橙子",
+                  "type_id": 3,
+                  "type_name": "类型1",
+                  "gc_parent_id": 1057,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1060,
+                        "gc_name": "脐橙",
+                        "type_id": 0,
+                        "type_name": "类型1",
+                        "gc_parent_id": 1058,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1061,
+                        "gc_name": "夏橙",
+                        "type_id": 0,
+                        "type_name": "类型1",
+                        "gc_parent_id": 1058,
+                        "commis_rate": 6,
+                        "gc_sort": 2,
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1188,
+                        "gc_name": "血橙",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1058,
+                        "commis_rate": 6,
+                        "gc_sort": 3,
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1376,
+                        "gc_name": "品牌脐橙",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1058,
+                        "commis_rate": 6,
+                        "gc_sort": 255,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1068,
+                  "gc_name": "柑",
+                  "type_id": 3,
+                  "type_name": "类型1",
+                  "gc_parent_id": 1057,
+                  "commis_rate": 6,
+                  "gc_sort": 2,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1069,
+                        "gc_name": "进口柑",
+                        "type_id": 3,
+                        "type_name": "类型1",
+                        "gc_parent_id": 1068,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1322,
+                        "gc_name": "国产柑",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1068,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1072,
+                  "gc_name": "柠檬",
+                  "type_id": 3,
+                  "type_name": "类型1",
+                  "gc_parent_id": 1057,
+                  "commis_rate": 6,
+                  "gc_sort": 3,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1200,
+                        "gc_name": "国产柠檬",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1072,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1073,
+                        "gc_name": "进口柠檬",
+                        "type_id": 3,
+                        "type_name": "类型1",
+                        "gc_parent_id": 1072,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1062,
+                  "gc_name": "柚子",
+                  "type_id": 3,
+                  "type_name": "类型1",
+                  "gc_parent_id": 1057,
+                  "commis_rate": 6,
+                  "gc_sort": 4,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1064,
+                        "gc_name": "国产柚子",
+                        "type_id": 3,
+                        "type_name": "类型1",
+                        "gc_parent_id": 1062,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1063,
+                        "gc_name": "进口柚子",
+                        "type_id": 3,
+                        "type_name": "类型1",
+                        "gc_parent_id": 1062,
+                        "commis_rate": 6,
+                        "gc_sort": 1,
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }, {
+                  "gc_id": 1334,
+                  "gc_name": "橘子",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1057,
+                  "commis_rate": 6,
+                  "gc_sort": 5,
+                  
+                  
+                  "show_type": 1,
+                  "children": [{
+                        "gc_id": 1335,
+                        "gc_name": "进口橘子",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1334,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }, {
+                        "gc_id": 1336,
+                        "gc_name": "国产橘子",
+                        "type_id": 0,
+                        "type_name": "",
+                        "gc_parent_id": 1334,
+                        "commis_rate": 6,
+                        
+                        
+           
+                        
+                        "show_type": 1
+                  }]
+            }]
+      }, {
+            "gc_id": 1074,
+            "gc_name": "仁果类",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 5,
+            
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05022966137745157.png",
+            "children": [{
+                  "gc_id": 1324,
+                  "gc_name": "国产苹果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1074,
+                  "commis_rate": 6,
+                  
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1325,
+                  "gc_name": "进口苹果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1074,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1328,
+                  "gc_name": "精装苹果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1074,
+                  "commis_rate": 6,
+                  "gc_sort": 2,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1326,
+                  "gc_name": "国产梨",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1074,
+                  "commis_rate": 6,
+                  "gc_sort": 3,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1327,
+                  "gc_name": "进口梨",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1074,
+                  "commis_rate": 6,
+                  "gc_sort": 4,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1365,
+                  "gc_name": "山楂",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1074,
+                  "commis_rate": 6,
+                  "gc_sort": 5,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1329,
+                  "gc_name": "其它",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1074,
+                  "commis_rate": 6,
+                  "gc_sort": 255,
+                  
+                  
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1251,
+            "gc_name": "蔬果类",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 6,
+            
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/15265814788526585.png",
+            "children": [{
+                  "gc_id": 1252,
+                  "gc_name": "番茄",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1251,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1253,
+                  "gc_name": "黄瓜",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1251,
+                  "commis_rate": 6,
+                  "gc_sort": 2,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1266,
+                  "gc_name": "玉米",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1251,
+                  "commis_rate": 6,
+                  "gc_sort": 3,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1276,
+                  "gc_name": "南瓜",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1251,
+                  "commis_rate": 6,
+                  "gc_sort": 5,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1294,
+                  "gc_name": "地瓜",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1251,
+                  "commis_rate": 6,
+                  "gc_sort": 6,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1374,
+                  "gc_name": "其他",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1251,
+                  "commis_rate": 6,
+                  "gc_sort": 255,
+                  
+                  
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1381,
+            "gc_name": "蔬菜类",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 7,
+
+            
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05140417716437916.png",
+            "children": [{
+                  "gc_id": 1383,
+                  "gc_name": "根茎类",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1381,
+                  "commis_rate": 6,
+                  
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1386,
+                  "gc_name": "叶菜类",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1381,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1385,
+                  "gc_name": "菌菇类",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1381,
+                  "commis_rate": 6,
+                  "gc_sort": 5,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1384,
+                  "gc_name": "茄果类",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1381,
+                  "commis_rate": 6,
+                  "gc_sort": 7,
+                  
+                  
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1341,
+            "gc_name": "干果类",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 8,
+            
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05265814788526588.png",
+            "children": [{
+                  "gc_id": 1378,
+                  "gc_name": "坚果",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1341,
+                  "commis_rate": 6,
+                  
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1362,
+                  "gc_name": "果干",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1341,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1380,
+                  "gc_name": "果脯",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1341,
+                  "commis_rate": 6,
+                  "gc_sort": 2,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1379,
+                  "gc_name": "炒货",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1341,
+                  "commis_rate": 6,
+                  "gc_sort": 3,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1377,
+                  "gc_name": "干果礼盒",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1341,
+                  "commis_rate": 6,
+                  "gc_sort": 4,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1373,
+                  "gc_name": "其它",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1341,
+                  "commis_rate": 6,
+                  "gc_sort": 255,
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1337,
+            "gc_name": "电商标品",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 9,
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05265814788526587.png",
+            "children": [{
+                  "gc_id": 1371,
+                  "gc_name": "分装标品",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1337,
+                  "commis_rate": 6,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1372,
+                  "gc_name": "精选原装",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1337,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1246,
+            "gc_name": "包装耗材",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 11,            
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05131894979958057.png",
+            "children": [{
+                  "gc_id": 1264,
+                  "gc_name": "果篮",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1246,
+                  "commis_rate": 6,
+                  "gc_sort": 1,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1248,
+                  "gc_name": "塑料盒",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1246,
+                  "commis_rate": 6,
+                  "gc_sort": 2,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1247,
+                  "gc_name": "包装礼盒",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1246,
+                  "commis_rate": 6,
+                  "gc_sort": 3,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1249,
+                  "gc_name": "水果工具",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1246,
+                  "commis_rate": 6,
+                  "gc_sort": 4,
+                  
+                  
+                  "show_type": 1
+            }, {
+                  "gc_id": 1265,
+                  "gc_name": "其他",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1246,
+                  "commis_rate": 6,
+                  "gc_sort": 5,
+                  "show_type": 1
+            }]
+      }, {
+            "gc_id": 1285,
+            "gc_name": "其他",
+            "type_id": 0,
+            "type_name": "",
+            "gc_parent_id": 0,
+            "commis_rate": 6,
+            "gc_sort": 199,
+            "show_type": 1,
+            "image": "https://img.cuixianyuan.com/mobile/category/05265814788526585.png",
+            "children": [{
+                  "gc_id": 1286,
+                  "gc_name": "蜂巢",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1285,
+                  "commis_rate": 6,
+                  "show_type": 1
+            }, {
+                  "gc_id": 1331,
+                  "gc_name": "其他",
+                  "type_id": 0,
+                  "type_name": "",
+                  "gc_parent_id": 1285,
+                  "commis_rate": 6,
+                  "gc_sort": 255,
+                  "show_type": 1
+            }]
+      }]
+}
